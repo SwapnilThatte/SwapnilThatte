@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Swapnil Thatte
 
-![I am GitHub Readme Generator's creator]()
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png">
 
 Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS
 
