@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Swapnil Thatte
+<center>### Hi there 👋, my name is Swapnil Thatte</center>
 
-<img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png">
+<!-- <img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png"> -->
 
 Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS
 
@@ -9,7 +9,7 @@ Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / 
 - 💬 Ask me about Javascript, Python, MERN stack 
 
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SwapnilThatte)   -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SwapnilThatte)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SwapnilThatte)](https://github.com/ryo-ma/github-profile-trophy)
 
