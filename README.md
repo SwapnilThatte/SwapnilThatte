@@ -1,4 +1,4 @@
-<center> ### Hi there 👋, my name is Swapnil Thatte </center>
+<p style="text-align:center"> <h1> Hi there 👋, my name is Swapnil Thatte </h1> </p>
 
 <!-- <img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png"> -->
 
