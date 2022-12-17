@@ -9,7 +9,7 @@ Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / 
 - 💬 Ask me about Javascript, Python, MERN stack 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SwapnilThatte)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SwapnilThatte)   -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SwapnilThatte)](https://github.com/ryo-ma/github-profile-trophy)
 
