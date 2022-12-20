@@ -17,10 +17,4 @@ Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilThatte&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SwapnilThatte)  
-
-![GitHub metrics](https://metrics.lecoq.io/SwapnilThatte)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilThatte)  
-
 ![Profile views](https://gpvc.arturio.dev/SwapnilThatte)  
