@@ -2,14 +2,12 @@
 
 <!-- <img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png"> -->
 
-Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS
+Skills: *PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS*
 
 - 🔭 I’m currently working QuickSnippets. 
 - 🌱 I’m currently learning Typescript, DevOps 
 - 💬 Ask me about Javascript, Python, MERN stack 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SwapnilThatte)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilThatte)](https://github.com/anuraghazra/github-readme-stats)
 
