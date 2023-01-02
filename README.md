@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png"> -->
 
-Skills: *PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS*
+Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working QuickSnippets. 
 - 🌱 I’m currently learning Typescript, DevOps 
