@@ -9,8 +9,6 @@ Skills: PYTHON / JAVASCRIPT / EXPRESS JS / NODE JS / ANDROID / KOTLIN / REACT / 
 - 💬 Ask me about Javascript, Python, MERN stack 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilThatte)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilThatte&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilThatte)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilThatte&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/SwapnilThatte)  
