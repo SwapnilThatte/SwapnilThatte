@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/SwapnilThatte/SwapnilThatte/blob/main/githubBanner.png"> -->
 
-PYTHON | DEEP LEARNING | PYTORCH | LANGCHAIN | NLP | COMPUTER VISION | HUGGINGFACE'S TRANSFORMERS | MERN STACK
+Python  |  Deep Learning  |  LLMs  |  Pytorch |  Langchain  |  NLP  |  Computer Vision  | MERN STACK
 
 - 🔭 I’m currently working on Deep Learning Projects. 
 - 🌱 I’m currently learning MLOps 
