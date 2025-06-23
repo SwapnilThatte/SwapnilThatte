@@ -9,8 +9,8 @@ Python  |  Deep Learning  |  LLMs  |  Pytorch |  Langchain  |  NLP  |  Computer 
 - 💬 Ask me about Deep Learning, Pytorch
 
 ![PyTorch](/pytorch.png)
-![PyTorch](/langchain.png)
+![Langchain](/langchain.png)
 
-<img src="azure.png" alt="My Image"/>
+<img src="azure.png" alt="Azure" style="width:100px; height:100px;"/>
 
 
