@@ -6,4 +6,8 @@ Python  |  Deep Learning  |  LLMs  |  Pytorch |  Langchain  |  NLP  |  Computer 
 
 - 🔭 I’m currently working on Deep Learning Projects. 
 - 🌱 I’m currently learning MLOps 
-- 💬 Ask me about Deep Learning, Pytorch 
+- 💬 Ask me about Deep Learning, Pytorch
+
+![PyTorch](/pytorch.png)
+![PyTorch](/langchain.png)
+
