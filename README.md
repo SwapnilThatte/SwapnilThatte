@@ -10,7 +10,8 @@ Python  |  Deep Learning  |  LLMs  |  Pytorch |  Langchain  |  NLP  |  Computer 
 
 ![PyTorch](/pytorch.png)
 ![Langchain](/langchain.png)
+
 <img src="azure.png" alt="Azure" style="width:150px; height:150px;"/>
-<img src="transformers.png" alt="HF_Transformers" style="width:250px; height:150px;"/>
+<img src="transformers.png" alt="HF_Transformers" style="width:350px; height:250px;"/>
 
 
