@@ -11,3 +11,6 @@ Python  |  Deep Learning  |  LLMs  |  Pytorch |  Langchain  |  NLP  |  Computer 
 ![PyTorch](/pytorch.png)
 ![PyTorch](/langchain.png)
 
+<img src="azure.png" alt="My Image" width="300"/>
+
+
